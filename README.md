@@ -5,9 +5,13 @@ The included dashboards (PDF exports) represent a comprehensive sales analytics 
 
 **Core Competencies:**
 **Data Modeling & Preparation:**
+
 Designed a multi-dimensional SAC model (ACA01_01_AMODEL_A252) with hierarchies for Customer, Product, Region, Channel, and Sales Org.
+
 Created calculated measures at the model level (Profit, Profit %, moving averages, forecast metrics).
+
 Incorporated scenario planning by applying growth factors for forecasting.
+
 Applied semantic structuring to ensure measures and dimensions aligned with business terminology.
 
 **Story & Dashboard Development:**
